@@ -17,7 +17,7 @@ I enjoy working with data, machine learning, and large-scale analytics problems,
 - Predcitive Modeling
 - Classification and Regression Analysis
 
-## 🔵 Tools I've Worked With
+## 🔵 Some of the Tools I've Worked With
 
 <p align="left">
 

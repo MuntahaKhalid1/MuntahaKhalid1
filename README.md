@@ -1,9 +1,9 @@
 # Muntaha Khalid
 # Hello! 👋
 
-I'm **Muntaha Khalid**, an **MS in Business Analytics graduate from UMass Amherst** and a **former Business Analyst at Amazon Robotics**.
+I'm Muntaha Khalid, an **MS in Business Analytics graduate from UMass Amherst** and a **former Business Analyst at Amazon**.
 
-I enjoy working with **data, machine learning, and large-scale analytics problems**, and studying how system changes influence performance and user behavior at scale.
+I enjoy working with data, machine learning, and large-scale analytics problems, and studying how system changes influence performance and user behavior at scale.
 
 ## 🔵 Skills
 - Python

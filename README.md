@@ -1,4 +1,4 @@
-# MuntahaKhalid1
+# Muntaha Khalid
 # Hello! 👋
 
 I'm **Muntaha Khalid**, an **MS in Business Analytics graduate from UMass Amherst** and a **former Business Analyst at Amazon Robotics**.
